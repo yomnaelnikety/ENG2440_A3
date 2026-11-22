@@ -1,0 +1,42 @@
+AI Use Declaration
+
+In accordance with assignment and course guidelines, I declare that AI tools were used as a supportive learning and technical assistant during Assignment 3 (ENG 2440, Molecular Property Prediction with Graph Neural Networks) as follows. I remain responsible for all code, results, figures, citations and claims in my submission.
+
+Background Reading:
+- Claude for identifying papers relevant to the assignment. Suggested references were checked independently before use.
+-- "what papers are relevant to this assignment that i should read"
+- Claude for finding existing, similar GNN projects for background context. Suggestions were checked independently before use.
+-- "what are some similar gnn projects already existing"
+Affected sections: Report (background and references)
+
+Code Debugging and Troubleshooting:
+- Claude for understanding why a chlorine atom appeared disconnected in the molecule visualisation.
+-- "why is chlorine disconnected"
+- Claude for explaining recurring RDKit warnings.
+-- "why do rdkit warnings keep flagging"
+- Claude for fixing the formatting of the final results figures.
+-- "please fix the formatting for the final results figures"
+Affected sections: Task A (molecule display, SMILES canonicalization), Task B (structure vs node-edge graph), Task C (scaffold generation), Task D (fingerprints), Task F (ROC/PR curves and confusion matrices)
+
+Report Structuring and Formatting:
+- Claude for providing an empty LaTeX report template (structure and layout only; all content written by me).
+-- "please give me a template for the latex report"
+- Claude for advice on shortening the report to meet the page limit.
+-- "how can i make the report shorter, what sections can be cut down"
+- Claude for correcting spelling and grammar in text I wrote.
+-- "please can you correct my spelling and grammar in the report"
+- Claude for checking my work against the submission requirements.
+-- "final submission checklist"
+Affected sections: Report (all sections), Repository
+
+Environment Setup:
+- Claude for formatting my list of package versions into a requirements.txt file.
+-- "please create a requirements .txt from this list of versions"
+Affected sections: Repository (requirements.txt)
+
+AI Use Declaration:
+- Claude for creating the declaration file and listing the prompts used.
+-- "create an ai use declaration txt"
+Affected sections: Repository (ai_use_declaration.txt)
+
+Yomna Elnikety 25011181
